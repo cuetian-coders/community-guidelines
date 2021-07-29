@@ -8,6 +8,6 @@ Guidelines for Cuetian Coders Community
 
 ## Community Guidelines:
 1. Only `Cuetians` are allowed to join the discord server.
-2. `NSFW` comments/contents are not allowed.
+2. `NSFW(Not safe for work)` comments/contents are not allowed.
 3. Harassment/disrespectful comments are not allowed.
 4. Political discussions are not allowed.
